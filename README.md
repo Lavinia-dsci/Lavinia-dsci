@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lavinia-dsci
-- 👀 I’m interested in Genomics, Finance, Data Science and Data Analytics
-- 🌱 I’m currently learning Data Science Professional Certificate Course by IBM and Financial Engineering. 
+- 👀 I’m interested in Bioinformatics, Everything-Omics, Finance, Data Science and Data Analytics.
+- 🌱 I’m a PhD researcher in Molecular and Computational Virology with a background in Biotechnology and Applied Financial Engineering. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 I can be reached on: https://www.linkedin.com/in/lavinia-dorothea-f-joseph-msc-7390aa2b5/ 
 
 <!---
 Lavinia-dsci/Lavinia-dsci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
