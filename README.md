@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Lavinia-dsci
-- 👀 I’m interested in Bioinformatics, Everything-Omics, Finance, Data Science and Data Analytics.
-- 🌱 I’m a PhD researcher in Molecular and Computational Virology with a background in Biotechnology and Applied Financial Engineering. 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Lavinia
+- 👀 I’m interested in Bioinformatics, Everything-Omics, Finance and Virology.
+- 🌱 I’m a PhD researcher in Molecular and Computational Virology with a background in Medical Biotechnology and Applied Financial Engineering. 
 - 📫 I can be reached on: https://www.linkedin.com/in/lavinia-dorothea-f-joseph-msc-7390aa2b5/ 
 
 <!---
